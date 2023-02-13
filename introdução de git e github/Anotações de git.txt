@@ -1,0 +1,6 @@
+link para baixar o Git :https://git-scm.com/download/win
+
+colocando o  código (Git add .) , voce adicionara a altereção dentro do repositorio . 
+
+
+como adicionar as altereções no github ? exp (git commit -m "inclução das anotações do curso de git/github")
