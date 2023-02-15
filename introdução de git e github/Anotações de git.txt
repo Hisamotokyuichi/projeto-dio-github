@@ -4,3 +4,25 @@ colocando o  código (Git add .) , voce adicionara a altereção dentro do repos
 
 
 como adicionar as altereções no github ? exp (git commit -m "inclução das anotações do curso de git/github")
+
+git status - usado para saber a situação em si . EXP : documentos alterados e arquivos  etc ...
+
+EXP no Git :arquivo alterado = 
+git status 
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   "Anota\303\247\303\265es de git.txt"
+
+arquivo incluso :
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   "Anota\303\247\303\265es de git.txt"
